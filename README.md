@@ -11,12 +11,11 @@ O padrão REST determina como deve ser realizada a Transferência de Estado Repr
 Dito isso, aplicamos as quatro operações básicas utilizadas em bases de dados relacionais.<br>
 </p>
 </div
-<h3>
-#CREATE<br>
-#READ<br>
-#UPDATE<br>
-#DELETE<br><br>
-</h3>
+<h3>#CREATE</h3><br>
+<h3>#READ</h3><br>
+<h3>#UPDATE</h3><br>
+<h3>#DELETE</h3><br><br>
+
 
 <div id=dependencias></div>
 <h2 align="center">Dependências:</h2>
