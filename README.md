@@ -16,7 +16,7 @@ Dito isso, aplicamos as quatro operações básicas utilizadas em bases de dados
 <h5>#UPDATE</h5>
 <h5>#DELETE</h5>
 
-<div align="center"><h5>Tabela de conteúdos<h5>
+<div align="center"><h5>Tabela de conteúdos<h5></div>
 <a href="#sobre">•Sobre</a><br>
 <a href="#dependencias">•Dependências</a><br>
 &nbsp;&nbsp;&nbsp;<a href="#node">•Node.js</a><br>
@@ -29,7 +29,7 @@ Dito isso, aplicamos as quatro operações básicas utilizadas em bases de dados
 <a href="#execuçao">•Como Executar</a><br>
 <a href="#rotas">•Rotas</a><br>
 <a href="#testes">•Tests</a><br>
-<a href="#ferramentas">•Informações Adicionais</a><br></div>
+<a href="#ferramentas">•Informações Adicionais</a><br>
 
 <div id=dependencias></div>
 <h2 align="center">Dependências:</h2>
