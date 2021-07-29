@@ -16,11 +16,10 @@ Dito isso, aplicamos as quatro operações básicas utilizadas em bases de dados
 <h5>#UPDATE</h5>
 <h5>#DELETE</h5>
 
-<div id="tabela-de-conteudo" aling="center">
-<p>Tabela de conteúdos<p>
-<a href="#sobre">Sobre</a><br>
-<a href="#tabela-de-conteudo">Tabela de Conteudo</a><br>
-<a href="#dependencias">Dependências</a><br>
+<div aling="center">
+<h5>Tabela de conteúdos<h5>
+<a href="#sobre">•Sobre</a><br>
+<a href="#dependencias">•Dependências</a><br>
   <a href="#node">Node.js</a><br>
   <a href="#express">Express</a><br>
   <a href="#sqlite">SQLite</a><br>
@@ -28,10 +27,10 @@ Dito isso, aplicamos as quatro operações básicas utilizadas em bases de dados
   <a href="#supertest">Supertest</a><br>    
   <a href="#jest">Jest</a><br>
   <a href="#cors">Cors</a><br>
-<a href="#execuçao">Como Executar</a><br>
-<a href="#rotas">Rotas</a><br>
-<a href="#testes">Tests</a><br>
-<a href="#ferramentas">Informações Adicionais</a><br>
+<a href="#execuçao">•Como Executar</a><br>
+<a href="#rotas">•Rotas</a><br>
+<a href="#testes">•Tests</a><br>
+<a href="#ferramentas">•Informações Adicionais</a><br>
 </div>
 
 <div id=dependencias></div>
