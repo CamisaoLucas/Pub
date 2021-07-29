@@ -17,6 +17,27 @@ Dito isso, aplicamos as quatro operações básicas utilizadas em bases de dados
 <h5>#DELETE</h5>
 
 
+<div id="tabela-de-conteudo" aling="center">
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre](#sobre)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Dependências](#dependencias)
+      * [Node.js](#node)
+      * [Express](#express)
+      * [SQLite](#sqlite)
+      * [Nodemon](#nodemon)
+      * [Supertest](#supertest)      
+      * [Jest](#jest)
+      * [Cors](#cors)
+   * [Como Executar](#execuçao)
+   * [Rotas](#rotas)
+   * [Tests](#testes)
+   * [Informações Adicionais](#ferramentas)
+<!--te-->
+</div>
+
 <div id=dependencias></div>
 <h2 align="center">Dependências:</h2>
 
@@ -38,7 +59,7 @@ Dito isso, aplicamos as quatro operações básicas utilizadas em bases de dados
 
 </p>
 
-<div id=testes></div>
+<div id="testes"></div>
 <h2 align="center">Testes:</h2>
 
 <p align="center">
