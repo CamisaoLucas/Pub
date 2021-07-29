@@ -18,24 +18,21 @@ Dito isso, aplicamos as quatro operações básicas utilizadas em bases de dados
 
 
 <div id="tabela-de-conteudo" aling="center">
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Sobre](#sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Dependências](#dependencias)
-      * [Node.js](#node)
-      * [Express](#express)
-      * [SQLite](#sqlite)
-      * [Nodemon](#nodemon)
-      * [Supertest](#supertest)      
-      * [Jest](#jest)
-      * [Cors](#cors)
-   * [Como Executar](#execuçao)
-   * [Rotas](#rotas)
-   * [Tests](#testes)
-   * [Informações Adicionais](#ferramentas)
-<!--te-->
+<h3>Tabela de conteúdos<h3>
+<p>*[Sobre](#sobre)</p>
+<p>*[Tabela de Conteudo](#tabela-de-conteudo)</p>
+<p>*[Dependências](#dependencias)</p>
+  <p>* [Node.js](#node)</p>
+  <p>* [Express](#express)</p>
+  <p>* [SQLite](#sqlite)</p>
+  <p>* [Nodemon](#nodemon)</p>
+  <p>* [Supertest](#supertest)</p>      
+  <p>* [Jest](#jest)</p>
+  <p>* [Cors](#cors)</p>
+<p>* [Como Executar](#execuçao)</p>
+<p>* [Rotas](#rotas)</p>
+<p>* [Tests](#testes)</p>
+<p>* [Informações Adicionais](#ferramentas)</p>
 </div>
 
 <div id=dependencias></div>
