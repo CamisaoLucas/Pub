@@ -20,13 +20,13 @@ Dito isso, aplicamos as quatro operações básicas utilizadas em bases de dados
 <h5>Tabela de conteúdos<h5>
 <a href="#sobre">•Sobre</a><br>
 <a href="#dependencias">•Dependências</a><br>
-    &nbsp;<a href="#node">Node.js</a><br>
-    <a href="#express">Express</a><br>
-    <a href="#sqlite">SQLite</a><br>
-    <a href="#nodemon">Nodemon</a><br>
-    <a href="#supertest">Supertest</a><br>    
-    <a href="#jest">Jest</a><br>
-    <a href="#cors">Cors</a><br>
+&nbsp;&nbsp;&nbsp;<a href="#node">Node.js</a><br>
+&nbsp;&nbsp;&nbsp;<a href="#express">Express</a><br>
+&nbsp;&nbsp;&nbsp;<a href="#sqlite">SQLite</a><br>
+&nbsp;&nbsp;&nbsp;<a href="#nodemon">Nodemon</a><br>
+&nbsp;&nbsp;&nbsp;<a href="#supertest">Supertest</a><br>    
+&nbsp;&nbsp;&nbsp;<a href="#jest">Jest</a><br>
+&nbsp;&nbsp;&nbsp;<a href="#cors">Cors</a><br>
 <a href="#execuçao">•Como Executar</a><br>
 <a href="#rotas">•Rotas</a><br>
 <a href="#testes">•Tests</a><br>
