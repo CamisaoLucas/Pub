@@ -16,22 +16,20 @@ Dito isso, aplicamos as quatro operações básicas utilizadas em bases de dados
 <h5>#UPDATE</h5>
 <h5>#DELETE</h5>
 
-<div aling="center">
-<h5>Tabela de conteúdos<h5>
+<div align="center"><h5>Tabela de conteúdos<h5>
 <a href="#sobre">•Sobre</a><br>
 <a href="#dependencias">•Dependências</a><br>
-&nbsp;&nbsp;&nbsp;<a href="#node">Node.js</a><br>
-&nbsp;&nbsp;&nbsp;<a href="#express">Express</a><br>
-&nbsp;&nbsp;&nbsp;<a href="#sqlite">SQLite</a><br>
-&nbsp;&nbsp;&nbsp;<a href="#nodemon">Nodemon</a><br>
-&nbsp;&nbsp;&nbsp;<a href="#supertest">Supertest</a><br>    
-&nbsp;&nbsp;&nbsp;<a href="#jest">Jest</a><br>
-&nbsp;&nbsp;&nbsp;<a href="#cors">Cors</a><br>
+&nbsp;&nbsp;&nbsp;<a href="#node">•Node.js</a><br>
+&nbsp;&nbsp;&nbsp;<a href="#express">•Express</a><br>
+&nbsp;&nbsp;&nbsp;<a href="#sqlite">•SQLite</a><br>
+&nbsp;&nbsp;&nbsp;<a href="#nodemon">•Nodemon</a><br>
+&nbsp;&nbsp;&nbsp;<a href="#supertest">•Supertest</a><br>    
+&nbsp;&nbsp;&nbsp;<a href="#jest">•Jest</a><br>
+&nbsp;&nbsp;&nbsp;<a href="#cors">•Cors</a><br>
 <a href="#execuçao">•Como Executar</a><br>
 <a href="#rotas">•Rotas</a><br>
 <a href="#testes">•Tests</a><br>
-<a href="#ferramentas">•Informações Adicionais</a><br>
-</div>
+<a href="#ferramentas">•Informações Adicionais</a><br></div>
 
 <div id=dependencias></div>
 <h2 align="center">Dependências:</h2>
