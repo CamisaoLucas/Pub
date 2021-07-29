@@ -23,10 +23,10 @@ module.exports = (app,db) =>{
         }
     });
 
-    app.get('/bebida_sem_alcool/:id', async (req, res)=>{
-        const { id } = req.params;
+    app.get('/bebida_sem_Alcool/:ID', async (req, res)=>{
+        const { ID } = req.params;
         try{
-            let resposta = await bebidasBanco.getBebidaSA(id);
+            let resposta = await bebidasBanco.getBebidaSA(ID);
             res.json({result:resposta});
         }
         catch(error){
@@ -34,10 +34,10 @@ module.exports = (app,db) =>{
         }
     });
     
-    app.get("/bebida_com_alcool/:id", async (req, res)=>{
-        const { id } = req.params;
+    app.get("/bebida_com_alcool/:ID", async (req, res)=>{
+        const { ID } = req.params;
         try{
-            let resposta = await bebidasBanco.getBebidaCA(id);
+            let resposta = await bebidasBanco.getBebidaCA(ID);
             res.json({result:resposta});
         }
         catch(error){
@@ -122,9 +122,7 @@ module.exports = (app,db) =>{
     
     app.put("/bebidas_sem_alcool/:ID", async (req, res) => {
         const { NOME, VALOR } = req.body;
-    
         const { ID } = req.params;
-    
         try {
           await bebidasBanco.updateBebidasSA(ID, NOME, VALOR);
           res.status(200).json({

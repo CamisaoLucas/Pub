@@ -26,9 +26,9 @@ class BebidasDAO {
         });
       }
   
-      getBebidaSA(id){
+      getBebidaSA(ID){
         return new Promise((resolve, reject) => {
-          this.db.get("Select * from Bebidas_Sem_Álcool where id = ?", id, (err, rows) => {
+          this.db.get("Select * from Bebidas_Sem_Álcool where ID = ?", ID, (err, rows) => {
             if (err) {
               reject(err);
             } 
@@ -39,9 +39,9 @@ class BebidasDAO {
         });
       }
     
-     getBebidaCA(id){
+     getBebidaCA(ID){
         return new Promise((resolve, reject) => {
-          this.db.get("Select * from Bebidas_Com_Álcool where id = ?", id, (err, rows) => {
+          this.db.get("Select * from Bebidas_Com_Álcool where ID = ?", ID, (err, rows) => {
             if (err) {
               reject(err);
             } 
@@ -147,7 +147,7 @@ class BebidasDAO {
         if (NOME ||TEOR_ALCOOLICO || VALOR){
           let virgula = false
           let newArray = []
-          let sql = 'UPDATE Bebidas_sem_Álcool SET '
+          let sql = 'UPDATE Bebidas_com_Álcool SET '
           if(NOME){
             sql = sql + ' NOME = ?'
             virgula = true
