@@ -4,7 +4,6 @@ const express = require('express')
 //Configs
 const app = express()
 
-
 //Import DB
 const db = require('../infra/sqlite-db')
 
@@ -17,5 +16,4 @@ app.use(express.json())
 
 //usando rotas
 rotasBebidas(app, db)
-
 module.exports = app
