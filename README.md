@@ -10,11 +10,11 @@ E o que significa o padrao REST?<br><br>
 O padrão REST determina como deve ser realizada a Transferência de Estado Representacional (Representational State Transfer — REST), ou seja, a representação que corresponde ao conjunto de valores que representa uma determinada entidade em um dado momento.<br><br>
 Dito isso, aplicamos as quatro operações básicas utilizadas em bases de dados relacionais.<br>
 </p>
-</div
-<h3>#CREATE</h3><br>
-<h3>#READ</h3><br>
-<h3>#UPDATE</h3><br>
-<h3>#DELETE</h3><br><br>
+</div>
+<h5>#CREATE</h5><br>
+<h5>#READ</h5><br>
+<h5>#UPDATE</h5><br>
+<h5>#DELETE</h5><br><br>
 
 
 <div id=dependencias></div>
