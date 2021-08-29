@@ -1,5 +1,5 @@
 const app = require('./Config/customExpress')
-const port = 5432
+const port = 3030
 
 //Listen
 app.listen(process.env.PORT || port

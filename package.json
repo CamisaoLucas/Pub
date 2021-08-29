@@ -21,6 +21,7 @@
   "homepage": "https://github.com/Gonary/Pub#readme",
   "dependencies": {
     "consign": "^0.1.6",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "sqlite3": "^5.0.2"
   },
