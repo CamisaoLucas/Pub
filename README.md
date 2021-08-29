@@ -147,14 +147,14 @@ npm run populate
  <h3 id="create">Create</h3>
  -O paralelo ao create para nossas rotas é o Post.
  -O método POST foi criado para solicitar que o servidor web insira os dados anexados no corpo da mensagem de requisição para armazenamento.
- -A partir de ferramentas como o <a href="https://www.postman.com/">Postman</a> e <a href="https://insomnia.rest/">Insomnia</a>, você pode consultar a API por esse e outros métodos. No nosso caso, a requisição será feita escolhendo o método POST e informando a URL **_localhost:5452/bebidas_com_alcool** ou **_localhost:5452/bebidas_sem_alcool** .
+ -A partir de ferramentas como o <a href="https://www.postman.com/">Postman</a> e <a href="https://insomnia.rest/">Insomnia</a>, você pode consultar a API por esse e outros métodos. No nosso caso, a requisição será feita escolhendo o método POST e informando a URL **_localhost:3030/bebidas_com_alcool** ou **_localhost:3030/bebidas_sem_alcool** .
 </p>
 
 <p>
  <h3 id="read">Read</h3>
  -O paralelo ao read para nossas rotas é o Get.
  -O método GET cria uma sequência de consultas e acrescenta à URL do script no servidor que manipula a solicitação. Esse método é o padrão de todas as URL's e basicamente é para a leitura dos mesmos.
- -Com uma das ferramentas <a href="https://www.postman.com/">Postman</a> ou <a href="https://insomnia.rest/">Insomnia</a>, você pode consultar a API por esse. Nesse projeto foram criadas dois tipo de requisições com GET, as requisições serão feitas escolhendo o método get e informando a URL **_localhost:5452/todas_bebidas_com_alcool** ou **_localhost:5452/todas_bebidas_sem_alcool** ou selecionando bebidas pelo ID com a URL **_localhost:5452/bebidas_com_alcool/:id** ou  **_localhost:5452/bebidas_com_alcool/:id**.
+ -Com uma das ferramentas <a href="https://www.postman.com/">Postman</a> ou <a href="https://insomnia.rest/">Insomnia</a>, você pode consultar a API por esse. Nesse projeto foram criadas dois tipo de requisições com GET, as requisições serão feitas escolhendo o método get e informando a URL **_localhost:3030/todas_bebidas_com_alcool** ou **_localhost:3030/todas_bebidas_sem_alcool** ou selecionando bebidas pelo ID com a URL **_localhost:3030/bebidas_com_alcool/:id** ou  **_localhost:3030/bebidas_com_alcool/:id**.
  -Subistitua o **_:id_** pelo número desejado.
 </p>
 
@@ -164,7 +164,7 @@ npm run populate
  <h3 id="update">Update</h3>
  -O paralelo ao update para nossas rotas é o Put.
  -O método PUT subsititui uma representação do recurso de destino com os novos dados, atualizando-o com as novas informações.
- -Com uma das ferramentas <a href="https://www.postman.com/">Postman</a> ou <a href="https://insomnia.rest/">Insomnia</a>, você pode consultar a API por esse. As requisições serão feitas escolhendo o método put e informando a URL **_localhost:5452/bebidas_com_alcool/:ID** ou  **_localhost:5452/bebidas_sem_alcool/:ID**.
+ -Com uma das ferramentas <a href="https://www.postman.com/">Postman</a> ou <a href="https://insomnia.rest/">Insomnia</a>, você pode consultar a API por esse. As requisições serão feitas escolhendo o método put e informando a URL **_localhost:3030/bebidas_com_alcool/:ID** ou  **_localhost:3030/bebidas_sem_alcool/:ID**.
  -Subistitua o **_:id_** pelo número desejado.
 </p>
 
@@ -174,7 +174,7 @@ npm run populate
  <h3 id="delete">Delete</h3>
   -O paralelo ao delete para nossas rotas é o Delete.
   -Como era de se esperar, esse método remover algum recurso que foi especificado.
-  -Com uma das ferramentas <a href="https://www.postman.com/">Postman</a> ou <a href="https://insomnia.rest/">Insomnia</a>, você pode consultar a API por esse. As requisições serão feitas escolhendo o método put e informando a URL **_localhost:5452/bebidas_com_alcool/:ID** ou  **_localhost:5452/bebidas_sem_alcool/:ID**.
+  -Com uma das ferramentas <a href="https://www.postman.com/">Postman</a> ou <a href="https://insomnia.rest/">Insomnia</a>, você pode consultar a API por esse. As requisições serão feitas escolhendo o método put e informando a URL **_localhost:3030/bebidas_com_alcool/:ID** ou  **_localhost:3030/bebidas_sem_alcool/:ID**.
  -Subistitua o **_:id_** pelo número desejado.
 </p>
 
